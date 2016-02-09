@@ -2,6 +2,7 @@ name: Kahlo Retreat
 favicon: null
 layout_spectrum: 0.25777
 typography_spectrum: 0.51564
+title: kahloretreat
 cta:
   domain: null
   bucket: null
